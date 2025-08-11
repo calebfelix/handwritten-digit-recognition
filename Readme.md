@@ -2,6 +2,9 @@
 
 A Jupyter Notebook project using TensorFlow/Keras to recognize handwritten digits from the MNIST dataset.
 
+## 📷 Example Output
+![Example Prediction](/image.png)
+
 ---
 
 ## 📦 Features
